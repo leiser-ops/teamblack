@@ -1,0 +1,30 @@
+*{
+    background-color: black;
+}
+
+#fireandblood{
+    color: white;
+    text-align: center;
+    margin-top: 90px;
+    
+    
+}
+
+#teamblack{
+    height: 350px;
+    border: 2px solid white;
+
+}
+
+#text1{
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+    font-size: 2rem
+
+}
+
+#text2{
+    font-size:large
+}
+
+
